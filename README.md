@@ -55,7 +55,11 @@ This research highlights the importance of:
 - Auditable transaction and entitlement records
 - Monitoring for suspicious purchase and refund patterns
 
-See [Defensive Recommendations](docs/DEFENSIVE-RECOMMENDATIONS.md).
+## Documentation
+
+- [Independent Security Research Case Study](docs/CASE-STUDY.md)
+- [Defensive Security Recommendations](docs/DEFENSIVE-RECOMMENDATIONS.md)
+
 
 ## Scope and Limitations
 
